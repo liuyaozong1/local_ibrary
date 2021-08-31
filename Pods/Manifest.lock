@@ -1,0 +1,23 @@
+PODS:
+  - LYZ_EasyNavigation (0.1.0):
+    - SnapKit
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - LYZ_EasyNavigation (from `./LYZ_EasyNavigation/LYZ_EasyNavigation`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  LYZ_EasyNavigation:
+    :path: "./LYZ_EasyNavigation/LYZ_EasyNavigation"
+
+SPEC CHECKSUMS:
+  LYZ_EasyNavigation: f721400e89b240de69b1b463fc6d3917442cefb3
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: b9be3889a54f6de11d2b25bb03b16b6411ea0dda
+
+COCOAPODS: 1.11.0.rc.1
